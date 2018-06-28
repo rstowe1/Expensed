@@ -2,7 +2,7 @@
 
 Mobile Expense Reporting App
 
-Mobile Expense Reporting App will expedite the return of funds spent by employees on business expenses. Business expenses like travel to see a client or buying lunch for the new guy. Also long as your expenses are within the IRS guidelines. 
+Mobile Expense Reporting App will expedite the return of personal funds spent by employees on business expenses. Business expenses like travel to see a client or buying lunch for the new guy. Also long as your expenses are within the IRS guidelines. 
 
 MongoDB, Nodejs, React, Electron, Electron React
 
